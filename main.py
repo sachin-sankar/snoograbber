@@ -6,11 +6,11 @@ from redgifdl import download as downloadRedGifs
 import os
 
 reddit = praw.Reddit(
-    client_id="hi68JmCO_lEXGFWWjMvpZQ",
-    client_secret="CR_IXnjOA-qw02lcD0JGiSFo6i8rrg",
-    password="Ayush2010",
-    user_agent="gifgraber.chickengeek.app: by chickengeek",
-    username="Akhilucky",
+    client_id="",
+    client_secret="",
+    password="",
+    user_agent="",
+    username="",
 )
 
 def downloadMedia(url : str,folder: str = ''):
